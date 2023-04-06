@@ -4,7 +4,7 @@ It is based on [Vue 3](https://vuejs.org/) + [Vuetify 3](https://next.vuetifyjs.
 ### Environment
 
 Edit the [.env.development](.env.development) file and insert your API Token and the ID of your device.
- - Find your device ID from the [Portal](https://portal.microtronics.one)
+ - Find your device ID from [here](https://portal.microtronics.one)
  - Get your API Token [here](https://docs.microtronics.one/articles/26#generate-an-api-token)
 
 The file should look something like this:
